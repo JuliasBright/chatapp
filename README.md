@@ -38,13 +38,12 @@ packages -- Holds all The Packages instructions of the app
 #--ExtraCommands
  
     Service Workers
-    <br>
+   
     offline mode
-    <br>
+    
     Regex to check localhost
 
 #Commands and Dependecies
-<br>
-1. firebase react hooks
-<br>
-3. firebase
+
+    firebase react hooks
+    firebase
