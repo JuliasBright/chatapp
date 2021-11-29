@@ -18,22 +18,18 @@ packages -- Holds all The Packages instructions of the app
 
 
 #Functionalities
-<br>
-1.Google Authenitcation
-    <br>
-    -Login
-    <br>
-    -Logout
-    <br>
-2.Security Logic
-<br>
-    Too many Massages get banned
-    <br>
-    Violets any chatting rules gets banned
-<br>
-3.RealTime Data with Firebase
-<br>
-    Each Massage is stored as as TimeStamp in the database
+
+    1.Google Authenitcation
+        -Login
+        -Logout
+
+
+    2.Security Logic
+        Too many Massages get banned
+        Violets any chatting rules gets banned
+
+    3.RealTime Data with Firebase
+         Each Massage is stored as as TimeStamp in the database
 
 #--ExtraCommands
  
