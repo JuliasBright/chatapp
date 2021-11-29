@@ -36,13 +36,13 @@ packages -- Holds all The Packages instructions of the app
     Each Massage is stored as as TimeStamp in the database
 
 #--ExtraCommands
-<br>
-1. Service Workers
- <br>
+ 
+    Service Workers
+    <br>
     offline mode
     <br>
     Regex to check localhost
-<br>
+
 #Commands and Dependecies
 <br>
 1. firebase react hooks
